@@ -1,0 +1,6 @@
+<?php
+getproducts();
+
+getproducts2();
+
+?>
